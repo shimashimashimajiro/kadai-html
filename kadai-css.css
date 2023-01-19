@@ -12,12 +12,12 @@ header {
 
 #main {
   height: 100%;
-  width: 70%;
+  width: 700px;
   background-color: #ccffcc;
 }
 
 #menu {
-  width: 30%;
+  width: 300px;
   background-color: #ccccff;
 }
 
